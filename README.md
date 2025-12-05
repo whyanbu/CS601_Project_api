@@ -1,5 +1,6 @@
 # Web API for My Personal Webpage
-This is an Web API for serving my personal webpage.
+This is a minimal Web API for serving my personal webpage:  
+https://whyanbu.github.io/CS601_Project/  
 
 ## Table of Contents
 Features  
@@ -19,7 +20,6 @@ cd CS601_Project_api
 ### Project Structure
 ```
 CS601_Project_api
-api
 ├── README.md
 ├── api
 │   └── index.js
