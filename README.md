@@ -2,6 +2,11 @@
 This is a minimal Web API for serving my personal webpage:  
 https://whyanbu.github.io/CS601_Project/  
 
+API Endpoints:  
+https://cs601projectapi.vercel.app/experience  
+https://cs601projectapi.vercel.app/education  
+https://cs601projectapi.vercel.app/skill  
+
 ## Table of Contents
 Features  
 Installation  
